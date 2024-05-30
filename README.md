@@ -42,9 +42,14 @@ Step 3
 Run the docker container using this command
 
 ````
-
+sudo docker-compose up -d
 ````
 
+Step 4
+----------------
+Check the configuration. Goto browser 
+
+'https://localhost/'
 
 
 
